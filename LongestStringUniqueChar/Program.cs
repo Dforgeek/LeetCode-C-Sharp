@@ -33,10 +33,4 @@ public class Solution
         return maxLen;
     }
 
-
-    public static void Main()
-    {
-        string s = "pwwkew";
-        Console.WriteLine(LengthOfLongestSubstring(s));
-    }
 }
